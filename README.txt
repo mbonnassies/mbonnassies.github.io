@@ -1,3 +1,6 @@
+This repository contains the website made for our data story as part of the EPFL Applied Data Analysis course. It can be visited with the URL mbonnassies.github.io.
+
+
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
